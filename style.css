@@ -1088,8 +1088,7 @@ text-align: center;
 /* The Highlighted Column (GTG) */
 .highlight-col {
     background-color:#F0FDF4;
-    color: var(--brand-green) !important;
-    #F0FDF4
+    color: #F0FDF4 !important;
     font-weight: bold;
     border-radius: 1px;
 }
